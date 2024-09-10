@@ -1,0 +1,7 @@
+C:\Users\Junior\source\repos\banco\banco\obj\Debug\banco.csproj.AssemblyReference.cache
+C:\Users\Junior\source\repos\banco\banco\obj\Debug\banco.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\banco\banco\bin\Debug\banco.exe.config
+C:\Users\Junior\source\repos\banco\banco\bin\Debug\banco.exe
+C:\Users\Junior\source\repos\banco\banco\bin\Debug\banco.pdb
+C:\Users\Junior\source\repos\banco\banco\obj\Debug\banco.exe
+C:\Users\Junior\source\repos\banco\banco\obj\Debug\banco.pdb
